@@ -6,12 +6,14 @@
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Penetration Tester.
+Understand the Basics of Cybersecurity – Learn foundational concepts such as networking, Linux, and scripting.
+Master Essential Pentesting Tools – Get hands-on experience with tools like Burp Suite, Nmap, Metasploit, Wireshark, and SQLmap.
+Explore Web and Network Security – Study OWASP Top 10 vulnerabilities and perform network reconnaissance.
+Promote Ethical Hacking Practices – Follow legal guidelines and learn how to responsibly disclose vulnerabilities.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                         | Associated Project         |
 |-------------------------------|----------------------------|
@@ -26,8 +28,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF813F?&style=for-the-badge&logo=burp-suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-004170?&style=for-the-badge&logo=nmap&logoColor=white" />
 </div>
 
 ### Endpoint
