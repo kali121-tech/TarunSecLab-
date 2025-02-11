@@ -20,7 +20,8 @@ Promote Ethical Hacking Practices – Follow legal guidelines and learn how to r
 | Linux Basics	                | Understanding file systems, command-line tools|
 | Networking	                | TCP/IP, DNS, HTTP/HTTPS, VPN, Firewalls, Wireshark|
 | Wireless Security	            |WiFi attacks (WPA2, Evil Twin, WPS attacks)|
-
+| Nmap                          ||
+| Burp suite                    ||
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
