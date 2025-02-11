@@ -1,7 +1,7 @@
 # Hello, I'm TARUN SHETTY
 <a href="https://www.linkedin.com/in/tarun-s-684a572b1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Introduction]
+## Introduction
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
@@ -13,14 +13,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                         | Associated Project         |
+|-------------------------------|----------------------------|
+| Linux Basics	                | Understanding file systems, command-line tools|
+| Networking	                | TCP/IP, DNS, HTTP/HTTPS, VPN, Firewalls, Wireshark|
+| Wireless Security	            |WiFi attacks (WPA2, Evil Twin, WPS attacks)|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
