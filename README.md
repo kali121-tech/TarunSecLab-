@@ -3,7 +3,7 @@
 
 ## Introduction
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am passionate about starting my journey in cybersecurity, with a strong interest in penetration testing (pentesting). As someone who is new to the field, I am eager to learn about network security, ethical hacking, vulnerability assessments, and exploit development. What excites me the most about cybersecurity is the challenge of thinking like an attacker to identify and fix security weaknesses before they can be exploited. I am particularly drawn to ethical hacking because it combines problem-solving, technical skills, and creativity to strengthen digital defenses.
 
 ## Objective
 
